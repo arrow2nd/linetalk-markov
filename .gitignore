@@ -1,0 +1,4 @@
+node_modules
+dictionary/*.json
+talk_history/*.txt
+tmp/*.txt

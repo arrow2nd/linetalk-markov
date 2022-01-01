@@ -1,4 +1,3 @@
-node_modules
-dictionary/*.json
-talk_history/*.txt
-tmp/*.txt
+.vscode
+dic/*.json
+talks/*.txt

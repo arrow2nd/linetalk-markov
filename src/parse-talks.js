@@ -1,4 +1,4 @@
-import { parse } from "https://github.com/arrow2nd/line-talk-parser/raw/main/mod.ts";
+import { parse } from "https://deno.land/x/line2json@v0.1.0/mod.ts";
 
 /**
  * トーク履歴をユーザー別にパース
